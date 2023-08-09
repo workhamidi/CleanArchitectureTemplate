@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "workhamidi",
+  "classifications": [
+    "Api",
+    "Web",
+    "ASP.NET",
+    "Clean Architecture"
+  ],
+  "name": "Architecture Solution",
+  "description": "A Clean Architecture Solution Template for creating a Rest Api with ASP.NET Core.",
+  "identity": "Clean.Architecture.Solution.CSharp",
+  "groupIdentity": "Clean.Architecture.Solution",
+  "shortName": "CleanArcTemp",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CleanArcTemp",
+  "preferNameDirectory": true
+}

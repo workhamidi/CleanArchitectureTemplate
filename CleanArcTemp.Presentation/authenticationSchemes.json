@@ -1,0 +1,9 @@
+{
+  "RollPolicy":
+  [
+    {
+      "Roll": "admin",
+      "policy": "readFile"
+    }
+  ]
+}
